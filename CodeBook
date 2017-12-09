@@ -1,0 +1,6 @@
+This code book describes the structure and the variables of the data set "tidydata.txt", resulting from executing the "run_analysis.R" script.
+
+Tidydata.txt contains 180 rows and 68 columns. Each row includes average variables for each subject and each activity. Data were averaged based on the Subject and Activity group.Only variables estimated from mean and standard deviation were included in the tidydata.txt file.
+
+There are a total of 30 subjects and 6 Activity Lables, described as below:
+
