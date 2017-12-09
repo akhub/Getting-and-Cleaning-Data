@@ -84,4 +84,4 @@ There are a total of 30 subjects and 6 Activity Lables. Activity Lables are desc
 67. "fBodyBodyGyroJerkMag.mean.." 
 68. "fBodyBodyGyroJerkMag.std.."
 
-*Columns 3 to 68 are are all numeric numeric and represent accelerometer and gyroscope 3-axial measurements. Only mean and standard deviation are included.*
+*Columns 3 to 68 are are all numeric and represent accelerometer and gyroscope 3-axial measurements. Only mean and standard deviation are included.*
