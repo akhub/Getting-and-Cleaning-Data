@@ -13,9 +13,8 @@ There are a total of 30 subjects and 6 Activity Lables. Activity Lables are desc
 ##### LAYING - Label 6 
 
 ## Tidydata.txt includes following column names:
-1. "activitylabel"  *(Activity label, 1 to 6, is factor type)*           
-2. "subject"        *(Subject, 1 to 30, is integer type)*
-
+1. "subject"        *(Subject, 1 to 30, is integer type)*
+2. "activitylabel"  *(Activity label, 1 to 6, is factor type)*           
 
 3. "tBodyAcc.mean...X"           
 4. "tBodyAcc.mean...Y"          
