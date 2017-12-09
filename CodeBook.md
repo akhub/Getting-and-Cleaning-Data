@@ -15,8 +15,8 @@ There are a total of 30 subjects and 6 Activity Lables. Activity Lables are desc
 ##### LAYING - Label 6 
 
 ## Tidydata.txt includes following column names:
-1. "activitylabel"  *(Activity label, 1 to 6, is factor type)           
-2. "subject"        *(Subject, 1 to 30, is integer type)
+1. "activitylabel"  *(Activity label, 1 to 6, is factor type)*           
+2. "subject"        *(Subject, 1 to 30, is integer type)*
 
 
 3. "tBodyAcc.mean...X"           
@@ -72,9 +72,9 @@ There are a total of 30 subjects and 6 Activity Lables. Activity Lables are desc
 53. "fBodyAccJerk.std...Y"        
 54. "fBodyAccJerk.std...Z"       
 55. "fBodyGyro.mean...X"         
-56. "fBodyGyro.mean...Y"         
-57 "fBodyGyro.mean...Z"          
-58. "fBodyGyro.std...X"          
+56. "fBodyGyro.mean...Y"
+57 "fBodyGyro.mean...Z"
+58. "fBodyGyro.std...X"
 59 "fBodyGyro.std...Y"           
 60. "fBodyGyro.std...Z"          
 61. "fBodyAccMag.mean.."          
@@ -86,4 +86,4 @@ There are a total of 30 subjects and 6 Activity Lables. Activity Lables are desc
 67. "fBodyBodyGyroJerkMag.mean.." 
 68. "fBodyBodyGyroJerkMag.std.."
 
-*### Columns 3 to 68 are are all numeric numeric and represent accelerometer and gyroscope 3-axial measurements. Only mean and standard deviation are included.
+*Columns 3 to 68 are are all numeric numeric and represent accelerometer and gyroscope 3-axial measurements. Only mean and standard deviation are included.*
