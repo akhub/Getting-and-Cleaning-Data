@@ -1,6 +1,4 @@
-# tidydata.txt
-
-This code describes the structure and variables of "tidydata.txt", resulting from executing the "run_analysis.R" script. 
+This code describes the structure and variables of #tidydata.txt#, resulting from executing the "run_analysis.R" script. 
 
 Tidydata.txt contains 180 rows and 68 columns. Each row includes average variables for each subject and each activity. Data were 
 averaged based on the Subject and Activity group. Only variables estimated from mean and standard deviation were included.
@@ -86,4 +84,4 @@ There are a total of 30 subjects and 6 Activity Lables. Activity Lables are desc
 67. "fBodyBodyGyroJerkMag.mean.." 
 68. "fBodyBodyGyroJerkMag.std.."
 
-*Columns 3 to 68 are are all numeric numeric and represent accelerometer and gyroscope 3-axial measurements. Only mean and standard deviation are included.*
+###*Columns 3 to 68 are are all numeric numeric and represent accelerometer and gyroscope 3-axial measurements. Only mean and standard deviation are included.*###
